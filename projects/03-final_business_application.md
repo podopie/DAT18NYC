@@ -1,7 +1,7 @@
 # Unit Project 3: Project 2 Update and Business Application
 *Due April 8, 2015.  Brief presentations in class.*
 
-### After the project, you will be able to
+### After the project, you will be able to:
 
 ### Contents of your submission include
 
@@ -65,4 +65,4 @@ Feel free to err on the side of inclusion, in terms of code snippets, plots and 
 
 You might want to include (paste in) the headings from your client-facing notebook as well.
 
-Submit the link to the notebook on the [course submission form](https://)
+Submit the link to the notebook on the [course submission form](http://goo.gl/forms/qLHIjZadnp)

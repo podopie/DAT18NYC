@@ -4,7 +4,7 @@
 ### After the project, you will be able to:
 
 *   Store data in a DataFrame, and export it in some shape or form (text file, database, json text files)
-*   Visualize data through means of Matplotlib or ggplot (the matplotlib wrapper)
+*   Visualize data through means of a python visualization tool (matplotlib, seaborn, ggplot)
 *   Provide insight about the data in front of your peers
 
 ### Contents of your submission include

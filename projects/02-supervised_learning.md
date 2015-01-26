@@ -1,13 +1,13 @@
 ## Unit Project 2: Supervised Learning
 *Due March 9, 2015.  Brief presentations in class.*
 
-### After the project, you will be able to
+### After the project, you will be able to:
 
 Create a functional supervised learning model to predict (well or for naught!) a target variable.
 
 ### Contents of your submission include
 
-You'll turn in [to the assignments form](https://) a link to a formatted ipython notebook - preferably on your github account as a gist or in a repo.  Be sure to run all cells in the notebook before turning it in.  Your notebook should include markdown headings and be well commented.
+You'll turn in [to the assignments form](http://goo.gl/forms/qLHIjZadnp) a link to a formatted ipython notebook - preferably on your github account as a gist or in a repo.  Be sure to run all cells in the notebook before turning it in.  Your notebook should include markdown headings and be well commented.
 
 Your notebook should contain the following sections:
 
