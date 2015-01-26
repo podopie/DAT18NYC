@@ -58,7 +58,8 @@ instructor | day/time available | by
 Ed         | Tuesday, all day   | in person, hangouts, slack
            | Friday, all day    | in person, hangouts, slack
 Pooja      |                    |
-Julia      |                    |
+Julia      | Thursday, Saturday | in person, hangouts, slack
+	     Hours (TBD)
 
 Please use email to reach out about grabbing office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly.
 
