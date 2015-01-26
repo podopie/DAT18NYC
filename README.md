@@ -32,7 +32,7 @@ All weekly assignments are graded on completion only. We understand that student
 
 #### Submitting
 
-* Linkable assignments, such as gists, can be submitted by posting to [this submission form](http://). We highly recommend using git to checkin your work, as it's a great starting point to a portfolio, but other formats are fine (a blog post you wrote up, a gist, file/archive through google drive or dropbox)
+* Linkable assignments, such as gists, can be submitted by posting to [this submission form](http://goo.gl/forms/qLHIjZadnp). We highly recommend using git to checkin your work, as it's a great starting point to a portfolio, but other formats are fine (a blog post you wrote up, a gist, file/archive through google drive or dropbox)
 
 ### Projects
 
@@ -58,8 +58,7 @@ instructor | day/time available | by
 Ed         | Tuesday, all day   | in person, hangouts, slack
            | Friday, all day    | in person, hangouts, slack
 Pooja      |                    |
-Julia      | Thursday, Saturday | in person, hangouts, slack
-	   |  Hours (TBD)       |
+Julia      | Thursday, Saturday<br />Hours (TBD) | in person, hangouts, slack
 
 Please use email to reach out about grabbing office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly.
 
@@ -71,4 +70,4 @@ You've all been invited to use Slack for chat during class and the day. Please c
 
 If you're not already "watching" the github repository, please do so.
 
-You can check the [watcher's list](watchers) to see if you're on it.
+You can check the [watcher's list](https://github.com/podopie/DAT18NYC/watchers) to see if you're on it.
