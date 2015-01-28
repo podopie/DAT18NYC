@@ -5,7 +5,7 @@
 
 Week|Monday|Wednesday
 ------|-------|------
-1| **1/26/15** <br /> Introductions, Course Review | **1/28/15** <br /> Getting Data, Databases Overview
+1| **1/26/15** <br /> Snow Day | **1/28/15** <br /> Introductions, Course Review
 2| **2/2/15** <br /> Handling Data with Pandas | **2/4/15** <br /> Visualizing Data in Python
 3| **2/9/15** <br /> Statsmodels and the Linear Regression | **2/11/15** <br /> Time Series Analysis and Autoregression Techniques
 4| **2/16/15** <br /> Project 1 Presentations | **2/18/15** <br /> Machine Learning Workflow and SKLearn
