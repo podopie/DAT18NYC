@@ -57,7 +57,8 @@ instructor | day/time available | by
 -----------|--------------------|---
 Ed         | Tuesday, all day   | in person, hangouts, slack
            | Friday, all day    | in person, hangouts, slack
-Pooja      |                    |
+Pooja      | Tuesday, 6 - 7 PM  | in person, hangouts, slack
+           | Saturday, all day  | in person (10:30 AM - 12:30 PM @ GA West 3rd floor), hangouts, slack
 Julia      | Thursday, Saturday<br />Hours (TBD) | in person, hangouts, slack
 
 Please use email to reach out about grabbing office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly.
