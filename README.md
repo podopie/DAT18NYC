@@ -15,8 +15,8 @@ Week|Monday|Wednesday
 8| **3/16/15** <br /> Decision Trees and Ensembles | **3/18/15** <br /> Support Vector Machines and Kernels
 9| **3/23/15** <br /> Clustering and K Means | **3/25/15** <br /> Dimension Reduction
 10| **3/30/15** <br /> Recommendations | **4/1/15** <br /> Web Servers and Data Products
-10| **4/6/15** <br /> Distributed Systems and MapReduce | **4/8/15** <br /> Workshop
-11| **4/13/15** <br /> Workshop | **4/15/15** <br /> Final Presentations
+11| **4/6/15** <br /> Distributed Systems and MapReduce | **4/8/15** <br /> Workshop
+12| **4/13/15** <br /> Workshop | **4/15/15** <br /> Final Presentations
 
 ### Assignments
 
