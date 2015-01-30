@@ -56,3 +56,5 @@ target/
 # OS X Customer Attributes
 .DS_Store
 
+# notebook checkpoints
+.ipynb_checkpoints/
