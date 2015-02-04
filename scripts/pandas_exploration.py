@@ -15,7 +15,7 @@ for year in years:
     print autompg[autompg['model year'] == year].describe()
 
 for i in autompg['model year'].unique():
-    autompg[autompg['model year'] == i] = autompg[autompg['model year'] == i].fillna(autompg[autompg['horsepower'].notnull()].mean())
+    autompg[autompg['model year'] == i] = autompg[autompg['model year'] == i].fillna(autompg[(autompg['horsepower'].notnull()) & (autompg['model year'] == i)].mean())
 
 autompg['manufacturer'] = autompg['car name'].apply(lambda x: x.split()[0])
 
