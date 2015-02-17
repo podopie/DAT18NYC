@@ -1,5 +1,5 @@
 # Unit Project 1: Exploratory Data Analysis
-*Due February 16, 2015.  Brief presentations in class.*
+*Due February 23, 2015.  Brief presentations in class.*
 
 ### After the project, you will be able to:
 
