@@ -1,7 +1,7 @@
 # Journal Reviews
-*Due Date: 3/16/2015*
+*Recommended Additional Work*
 
-## Goals: Why are we doing this
+## Goals
 Part of your final project is to write up a "final paper." In order to really understand how people write papers, we should read as many as possible and understand how they are written, what works and what doesn't, so that way you have something upon leaving the course that looks and sounds professional that you'd want to share with future employers.
 
 ## Reading Journal Articles
