@@ -11,13 +11,15 @@ Week|Monday|Wednesday
 4| **2/16/15** <br /> No Class - President's Day | **2/18/15** <br /> Machine Learning Workflow and SKLearn
 5| **2/23/15** <br /> Project 1 Presentations | **2/25/15** <br /> Logistic Regression
 6| **3/2/15** <br /> NLTK and Text Analysis | **3/4/15** <br /> Classifying Text with Naive Bayes
-7| **3/9/15** <br /> Project 2 Presentations | **3/11/15** <br /> Machine Learning Review and where we go from here
-8| **3/16/15** <br /> Decision Trees and Ensembles | **3/18/15** <br /> Support Vector Machines and Kernels
+7| **3/9/15** <br /> Decision Trees and Ensembles | **3/11/15** <br /> Machine Learning Review and where we go from here
+8| **3/16/15** <br /> Project 2 Presentations | **3/18/15** <br /> Support Vector Machines and Kernels
 9| **3/23/15** <br /> Clustering and K Means | **3/25/15** <br /> Dimension Reduction
 10| **3/30/15** <br /> Recommendations | **4/1/15** <br /> Web Servers and Data Products
 11| **4/6/15** <br />  Database Technologies | **4/8/15** <br /> Distributed Systems and MapReduce
 12| **4/13/15** <br /> Workshop | **4/15/15** <br /> Workshop
 13| **4/20/15** <br /> Final Presentations | 
+
+_syllabus last updated: 2/23/2015_
 
 ### Assignments
 
