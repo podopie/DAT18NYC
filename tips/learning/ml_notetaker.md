@@ -12,6 +12,7 @@ regression analysis (continuous, supervised learner)
 
 R^2: explanation of variance in the data
 p-values: explanation of relationship of features to the target variable
+
 error: clearer relationship of error to the data, but scales with the data (to inf)
 
 > What is the output?
@@ -21,6 +22,7 @@ predicted values for a y target.
 > What is interpretable of the algorithm?
 
 coefficients: contribution, or weights, for each feature to predict the target.
+
 y_intercept: given all weights missing, the baseline target prediction
 
 > How is it prone to overfitting?
