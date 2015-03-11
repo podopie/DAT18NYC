@@ -3,8 +3,8 @@
 
 ### Class Schedule
 
-Week|Monday|Wednesday
-------|-------|------
+Wk    |Monday |Wednesday
+-----:|:------|:-----
 1| **1/26/15** <br /> Snow Day | **1/28/15** <br /> Introductions, Course Review
 2| **2/2/15** <br /> Handling Data with Pandas | **2/4/15** <br /> Visualizing Data in Python
 3| **2/9/15** <br /> Statsmodels and the Linear Regression | **2/11/15** <br /> Time Series Analysis and Autoregression Techniques
@@ -57,8 +57,8 @@ Please use the same google form for assignments.
 
 #### Office Hours
 
-instructor | day/time available | by
------------|--------------------|---
+instructor | times avail | by
+:----------|:-------------------|:--
 Ed         | Tuesday, all day   | in person, hangouts, slack
            | Friday, all day    | in person, hangouts, slack
 Pooja      | Tuesday, 6 - 7 PM  | in person, hangouts, slack
