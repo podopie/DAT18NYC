@@ -59,8 +59,8 @@ Please use the same google form for assignments.
 
 instructor | times avail | by
 :----------|:-------------------|:--
-Ed         | Tuesday, all day   | in person, hangouts, slack
-           | Friday, all day    | in person, hangouts, slack
+Ed         | Monday, all day    | in person, hangouts, slack
+           | Wednesday, all day | in person, hangouts, slack
 Pooja      | Tuesday, 6 - 7 PM  | in person, hangouts, slack
            | Saturday, all day  | in person (11:30 AM - 1:30 PM @ GA West 3rd floor), hangouts, slack
 Julia      | Thursday, 6- 7 PM  | in person, hangouts, slack
