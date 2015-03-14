@@ -3,8 +3,8 @@
 
 ### Class Schedule
 
-Week|Monday|Wednesday
-------|-------|------
+Wk    |Monday |Wednesday
+-----:|:------|:-----
 1| **1/26/15** <br /> Snow Day | **1/28/15** <br /> Introductions, Course Review
 2| **2/2/15** <br /> Handling Data with Pandas | **2/4/15** <br /> Visualizing Data in Python
 3| **2/9/15** <br /> Statsmodels and the Linear Regression | **2/11/15** <br /> Time Series Analysis and Autoregression Techniques
@@ -13,13 +13,13 @@ Week|Monday|Wednesday
 6| **3/2/15** <br /> NLTK and Text Analysis | **3/4/15** <br /> Classifying Text with Naive Bayes
 7| **3/9/15** <br /> Decision Trees and Ensembles | **3/11/15** <br /> Machine Learning Review and where we go from here
 8| **3/16/15** <br /> Project 2 Presentations | **3/18/15** <br /> Support Vector Machines and Kernels
-9| **3/23/15** <br /> Clustering and K Means | **3/25/15** <br /> Dimension Reduction
-10| **3/30/15** <br /> Recommendations | **4/1/15** <br /> Web Servers and Data Products
-11| **4/6/15** <br />  Database Technologies | **4/8/15** <br /> Distributed Systems and MapReduce
-12| **4/13/15** <br /> Workshop | **4/15/15** <br /> Workshop
+9| **3/23/15** <br /> Clustering, KNN, K Means | **3/25/15** <br /> Dimension Reduction
+10| **3/30/15** <br /> Databases tutorial and Setting up Postgres | **4/1/15** <br /> Databases in depth and your models
+11| **4/6/15** <br />  Building a Website in Flask | **4/8/15** <br /> Interacting with models on the web
+12| **4/13/15** <br /> Workshop / Open Lesson | **4/15/15** <br /> Workshop / Open Lesson
 13| **4/20/15** <br /> Final Presentations | 
 
-_syllabus last updated: 2/23/2015_
+_syllabus last updated: 3/11/2015_
 
 ### Assignments
 
@@ -57,10 +57,10 @@ Please use the same google form for assignments.
 
 #### Office Hours
 
-instructor | day/time available | by
------------|--------------------|---
-Ed         | Tuesday, all day   | in person, hangouts, slack
-           | Friday, all day    | in person, hangouts, slack
+instructor | times avail | by
+:----------|:-------------------|:--
+Ed         | Monday, all day    | in person, hangouts, slack
+           | Wednesday, all day | in person, hangouts, slack
 Pooja      | Tuesday, 6 - 7 PM  | in person, hangouts, slack
            | Saturday, all day  | in person (11:30 AM - 1:30 PM @ GA West 3rd floor), hangouts, slack
 Julia      | Thursday, 6- 7 PM  | in person, hangouts, slack
