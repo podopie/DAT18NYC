@@ -5,12 +5,12 @@
 
 ## Groups
 
-Person 1 | Person 2 | Person 3 | Person 4
----------|----------|----------|---------
-Theo | Qasim | Julie | Ikkei
-Houston | James | Duncan | Kiyan
-Tom | Michael | Jay | Yasir
-Sally | Charlie | Louis | Zach
-Nikhil | Andrew | | 
+Group 1 | Group 2 | Group 3
+---------|----------|----------
+Kiyan | Charlie | Ikkei
+Julie | Zach | Theo
+James | Duncan | Tom
+Michael | Qasim | Andrew
+Louis |  Sally | Houston
 
 _Groups will be slightly changed for the second peer review process._
