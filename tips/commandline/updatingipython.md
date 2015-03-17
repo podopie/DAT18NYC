@@ -8,7 +8,7 @@
 ### easiest way to update:
 
 ```bash
-cd ~/anaconda -- for windows users this will be a different location
+cd ~/anaconda # for windows users this will be a different location
 ./bin/pip install jsonschema
 ./bin/conda update anaconda
 ./bin/conda update ipython
