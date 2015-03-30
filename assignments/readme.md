@@ -8,7 +8,7 @@ Assignment # |Due Date |Link
 4            | 3/2/15  |[Peer Reviews](04-peer_review_1.md)
 5            | 3/9/15  |[Text Analysis](05-text_analysis.md)
 6            | 3/23/15 |[Peer Reviews](04-peer_review_2.md)
-7            | 3/30/15 |[Signal Processing](06-signal_processing.md)
+7            | 4/6/15  |[SQL Queries](http://nbviewer.ipython.org/github/podopie/DAT18NYC/blob/master/classes/17-relational_databases.ipynb#Your-turn:)
 
 ### Submission link
 
