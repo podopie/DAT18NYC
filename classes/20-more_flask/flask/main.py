@@ -59,11 +59,10 @@ def notebooks_index():
     return render_template('blog/index.html', posts=[])
 
 @app.route('/notebooks/<page>')
-def notebook_page():
-    """This endpoint should handle the notebook html.
-    """
-    loc = '../notebooks/'
-    return render_template(open(loc+page))
+def notebook_page(page):
+    """This endpoint should handle the notebook html."""
+    loc = 'notebooks/'
+    return open(loc+page, 'rb').read()
 
 @app.route('/api/predict')
 def predict():
