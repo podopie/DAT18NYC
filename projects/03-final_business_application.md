@@ -7,18 +7,25 @@
 
 * Presentation
 * "Client-Facing" Notebook
-* Developer Notebook
 
 #### Presentation
 
-* Each student will have a maximum of 5 minutes to present their project.
-* On Tuesday night, students will post a link to their client-facing notebook on the 'issues' page of the repository, so other students can follow along.  The title of the issue will be the title of the repository. As a reminder, ipynb file links can be entered into http://nbviewer.ipython.org/ for rendering to html.
-* Rather than slides, students will show images and text from their 'client facing notebook' as a visual aide.
-* There will be no Q&A, but audience and students are encouraged to leave comments for their colleagues in the issues.
+Each student will have a maximum of 10 minutes to present their project. Presentation industry standards usually include PowerPoint presentations, so spend a little time putting together a relatively short deck (~10 or so slides) that go into the details of your final project. Consider your audience a business group and your fellow data team; feel free to include the math, but don't bore your CEO :).
 
-#### Client-Facing Notebook
+A good presentation will **at least** include the following:
 
-A clean notebook notebook with text, code and images which could be understood by a reader such as yourself prior to taking this course.  Include as many images as you can, provided you include a brief explanation of them or they are self explanatory.  Feel free to include code, but ensure that it is explained, _briefly_, via text.  There is no need to include all of the code, as that will be present in the developer notebook.
+1. Motivation: Introduce the project and what you were trying to accomplish
+2. Data summary: what is it, where did it come from? Consider making a data dictionary. Include visualizations.
+3. Initial approach: what was your hypothesis, and the approach you decided to take to get there?
+4. Successes and Challenges: What worked well with your above reproach? What didn't? How did this director your analysis and machine learning approach? Include visuals to help explain these.
+5. Additional refactoring, iterations, etc that you cycled through to.
+6. Conclusions
+7. Business Gain
+8. Next steps (no project is ever finished!)
+
+#### Client-Facing Notebook (The "paper")
+
+A clean notebook notebook with text, code and images which could be understood by a reader such as yourself prior to taking this course.  Include as many images as you can, provided you include a brief explanation of them or they are self explanatory.  Feel free to include code, but ensure that it is explained, _briefly_, via text.  A good ratio to consider would be 1:1 for code to everything else. Use previous projects and the feedback provided as a guideline.
 
 Include the following sections:
 
@@ -27,7 +34,7 @@ Include the following sections:
 * A paragraph or two describing in words what the work you're describing.
 * Feel free to include any images or plots that help.
 
-##### Data Acquisition and Exploration
+##### Data Summary
 * How did you acquire and clean the data?
 * How did you describe your dataset?  Include all exploratory plots.  What was interesting about it?
 
@@ -54,15 +61,5 @@ What are some follow up analyses that might be interesting?
 ### Resources
 
 Include links to your developer's notebook and any other sources that you'd like.
-
-#### Developer Notebook
-
-The developer notebook includes the full code and output of your work, in an organized fashion.  This can serve as a reference for yourself, for other coders, and for future students, as an example or 'how to' for doing the analyses that you completed or worked towards.
-
-It should include markdown headers for each section, and all code should be commented or explained with markdown cells.
-
-Feel free to err on the side of inclusion, in terms of code snippets, plots and explanation.
-
-You might want to include (paste in) the headings from your client-facing notebook as well.
 
 Submit the link to the notebook on the [course submission form](http://goo.gl/forms/qLHIjZadnp)
