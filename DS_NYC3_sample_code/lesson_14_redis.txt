@@ -1,0 +1,35 @@
+# Starting the server in bash:
+redis-server --port 6379
+redis-cli -p 6379
+
+# In redis:
+
+info
+set name foo
+get name
+
+hset purchases alice 5
+hset purchases bob 6
+hget purchases alice
+hincrby purchases alice 1
+
+sadd users alice
+srem users alice
+sadd users bob
+smembers users
+
+
+flushdb
+
+keys *
+
+setbit active_users:2013-5-23 123 1
+setbit active_users:2013-5-23 124 1
+setbit active_users:2013-5-24 124 1
+getbit active_users:2013-5-24 123
+bitcount active_users:2013-5-24
+strlen active_users:2013-5-24  (bytes)
+info (memory usage)
+
+bitop or two_days active_users:2013-5-24 active_users:2013-5-23
+
